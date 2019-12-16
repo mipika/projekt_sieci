@@ -1,17 +1,2 @@
-#miejsce na komentarz
+#miejsce na roboczy komentarz
 
-rodzaj pomieszczenia biurowego:
-* ???
-
-program do tworzenia projektu sieci:
-        * visio?
-        * network notepad?
-        *autocad ?
-
-adresacja sieci:
-        * 10.10.10.0/24
-        * 4 pomieszczenia:
-                * kadry i księgowość
-                * administratorzy
-                 
-                
