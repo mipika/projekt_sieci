@@ -1,0 +1,4 @@
+#miejsce na komentarz
+program do tworzenia projektu sieci:
+        * visio
+        * network notepad
